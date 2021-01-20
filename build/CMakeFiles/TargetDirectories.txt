@@ -1,0 +1,3 @@
+/home/thiago/Projects/maze-generation/build/CMakeFiles/rebuild_cache.dir
+/home/thiago/Projects/maze-generation/build/CMakeFiles/edit_cache.dir
+/home/thiago/Projects/maze-generation/build/CMakeFiles/maze-generation.dir

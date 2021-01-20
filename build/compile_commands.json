@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/thiago/Projects/maze-generation/build",
+  "command": "/usr/bin/clang++ -std=gnu++17 -o CMakeFiles/maze-generation.dir/src/main.cpp.o -c /home/thiago/Projects/maze-generation/src/main.cpp",
+  "file": "/home/thiago/Projects/maze-generation/src/main.cpp"
+}
+]
