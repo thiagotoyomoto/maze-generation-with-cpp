@@ -1,8 +1,10 @@
 # ninja log v5
-0	2095	1611506892647151837	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
-1	2112	1611506892663151848	CMakeFiles/maze-generator-with-cpp.dir/src/Maze.cpp.o	df31ba55bf7d17e4
-2112	2345	1611506892891152014	maze-generator-with-cpp	c536d19a7f02b241
-1	1584	1611506919831171590	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
-1584	1787	1611506920035171739	maze-generator-with-cpp	c536d19a7f02b241
-2	1638	1611507002431231608	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
 1639	1850	1611507002643231761	maze-generator-with-cpp	c536d19a7f02b241
+1	2112	1611506892663151848	CMakeFiles/maze-generator-with-cpp.dir/src/Maze.cpp.o	df31ba55bf7d17e4
+2	1638	1611507002431231608	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
+0	2076	1611507623183648920	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
+1	2301	1611507623411649062	CMakeFiles/maze-generator-with-cpp.dir/src/Maze.cpp.o	df31ba55bf7d17e4
+2301	2552	1611507623659649216	maze-generator-with-cpp	c536d19a7f02b241
+3	2076	1611507642383660844	CMakeFiles/maze-generator-with-cpp.dir/src/main.cpp.o	36c5eda5ba8dd983
+4	2078	1611507642387660847	CMakeFiles/maze-generator-with-cpp.dir/src/Maze.cpp.o	df31ba55bf7d17e4
+2078	2346	1611507642655661013	maze-generator-with-cpp	c536d19a7f02b241
