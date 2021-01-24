@@ -3,6 +3,8 @@
 ## Sobre
 Este pequeno projeto apresenta a geração de um labirinto utilizando o algoritmo *Recursive Backtracker*
 
+![](images/maze.png)
+
 ## Tecnologias utilizadas
 - [C++](https://en.cppreference.com/w/)
 - [CMake 3.19.2](https://cmake.org/)
